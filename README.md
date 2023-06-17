@@ -1,1 +1,1 @@
-# web_scraping
+# web_scraping_practice_notes
